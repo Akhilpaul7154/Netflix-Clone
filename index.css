@@ -90,6 +90,7 @@ nav button {
     cursor: pointer;
     padding: 15px 30px;
 }
+/* ------------------features-------------------------- */
 .features {
     width: 100%;
     padding: 50px 12%;
@@ -185,6 +186,7 @@ input[type="radio"] {
 .faq small {
     font-size: 13px;
 }
+/* ------------footer------------- */
 .footer {
     padding: 50px 15% 10px;
     border-top: 6px solid #333;
